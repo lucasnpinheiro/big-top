@@ -30,32 +30,32 @@
     "dist": "electron-builder"
   },
   "dependencies": {
-    "@angular/common": "4.4.4",
-    "@angular/compiler": "4.4.4",
-    "@angular/compiler-cli": "4.4.4",
-    "@angular/core": "4.4.4",
+    "@angular/common": "20.3.34",
+    "@angular/compiler": "22.2.6",
+    "@angular/compiler-cli": "22.2.6",
+    "@angular/core": "20.3.28",
     "@angular/forms": "4.4.4",
     "@angular/http": "4.4.4",
     "@angular/platform-browser": "4.4.4",
-    "@angular/platform-browser-dynamic": "4.4.4",
+    "@angular/platform-browser-dynamic": "20.0.7",
     "@ionic-native/core": "4.3.2",
     "@ionic-native/splash-screen": "4.3.2",
     "@ionic-native/status-bar": "4.3.2",
     "@ionic/storage": "2.0.1",
-    "ionic-angular": "3.8.0",
+    "ionic-angular": "3.9.10",
     "ionicons": "3.0.0",
     "rxjs": "5.4.3",
     "sw-toolbox": "3.6.0",
     "zone.js": "0.8.18"
   },
   "devDependencies": {
-    "@ionic/app-scripts": "3.0.1",
+    "@ionic/app-scripts": "3.2.4",
     "concurrently": "^3.5.0",
-    "electron": "^1.7.9",
-    "electron-builder": "^19.45.1",
-    "foreman": "^2.0.0",
+    "electron": "^42.11.16",
+    "electron-builder": "^26.18.0",
+    "foreman": "^3.0.1",
     "typescript": "2.3.4",
-    "wait-on": "^2.0.2"
+    "wait-on": "^9.5.1"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js"
